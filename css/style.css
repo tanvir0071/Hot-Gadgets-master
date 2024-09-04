@@ -1,0 +1,134 @@
+/* Navigation Part Css Start */
+.navigation .navbar-brand img{
+    width: 60%;
+}
+.navigation ul li a{
+    color: black;
+}
+/* Navogation Part Css End */
+
+/* Banner Part Css Start */
+.banner .carousel-item{
+    padding: 20px 60px;
+}
+.banner p{
+    color: gray;
+    padding: 10px 0;
+}
+.banner .carousel-indicators li{
+    background-color: rgb(184, 182, 179);
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;    
+}
+.carousel-control-prev-icon{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(202, 193, 175);
+}
+.carousel-control-next-icon{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(202, 193, 175);
+}
+/* Banner Part Css End */
+
+
+/* Smartphone Part Css Start */
+.smartphone{
+    padding-top: 5%;
+}
+.smartphone .card{
+    border: none;
+    box-shadow: 5px 5px 10px grey ;
+}
+.smartphone .card h5{
+    text-align: center;
+}
+.smartphone,.laptop .part h3{
+    padding-bottom: 5px;
+}
+.smartphone .part p{
+    margin-top: 10px;
+}
+.smartphone .card img{
+    width: 80%;
+    padding: 10px;
+    margin-left:8%;
+}
+.smartphone .para{
+    text-align: right;
+    color: orange;
+    cursor: pointer;
+}
+.smartphone .buy-now-button{
+    background-image: linear-gradient(to bottom, black, rgb(65, 57, 58));
+    color: #fceae8;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/* Smartphone Part Css End */
+
+
+/* Laptop Part Css Start */
+.laptop{
+    padding-top: 5%;
+}
+.laptop .card{
+    border: none;
+    box-shadow: 5px 5px 10px grey ;
+}
+.laptop .card h5,p{
+    text-align: center;
+}
+.laptop .card img{
+    width: 80%;
+    padding: 10px;
+    margin-left:8%;
+}
+.laptop .para{
+    text-align: right;
+    color: orange;
+    cursor: pointer;
+}
+.laptop .buy-now-button{
+    background-image: linear-gradient(to bottom, black, rgb(65, 57, 58));
+    color: #fceae8;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/* Laptop Part Css End */
+
+
+
+/* Category Css Start */
+.category{
+    padding-top: 5%;
+}
+.category h3{
+    text-align: center;
+}
+/* .category .border{
+    height: 5px;
+    width: 75px;
+    background-color: orange;
+    align-items: center;
+} */
+.category .img1 img{
+    width: 50%;
+}
+.category .img2 .img2p1{
+    width: 50%;
+}
+.category .img2 .img2p2{
+    width: 50%;
+}
+.category .img3 img{
+    width: 100%;
+}
